@@ -1,0 +1,13 @@
+*{
+    font-size: x-large;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+.child{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
